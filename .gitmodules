@@ -10,3 +10,7 @@
 	path = trevly
 	url = git@git.vauxoo.com:vauxoo/trevly.git
 	branch = 14.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 14.0
