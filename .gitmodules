@@ -2,10 +2,6 @@
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
 	branch = 14.0
-[submodule "sh-tools"]
-	path = sh-tools
-	url = git@git.vauxoo.com:vauxoo/sh-tools.git
-	branch = 14.0
 [submodule "trevly"]
 	path = trevly
 	url = git@git.vauxoo.com:vauxoo/trevly.git
