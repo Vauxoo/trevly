@@ -5,7 +5,7 @@
 [submodule "trevly"]
 	path = trevly
 	url = git@git.vauxoo.com:vauxoo/trevly.git
-	branch = 14.0
+	branch = 14.0-manufacturing-flow-dev-jerudiel
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
