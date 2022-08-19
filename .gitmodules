@@ -1,25 +1,28 @@
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
-	branch = 14.0
+	branch = 15.0
 [submodule "trevly"]
 	path = trevly
 	url = git@git.vauxoo.com:vauxoo/trevly.git
-	branch = 14.0
+	branch = 15.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 15.0
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 15.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
-	url = git@github.com:OCA/purchase-workflow.git
-	branch = 14.0
+	url = git@github.com:Vauxoo/purchase-workflow.git
+	branch = 15.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
-	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 14.0
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 15.0
