@@ -42,3 +42,7 @@
 	path = l10n-mx-edi-tax-withholding
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-tax-withholding.git
 	branch = 18.0
+[submodule "l10n-mx-edi-ieps"]
+	path = l10n-mx-edi-ieps
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-ieps.git
+	branch = 18.0
