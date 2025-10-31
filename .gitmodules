@@ -22,10 +22,6 @@
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
 	branch = 18.0
-[submodule "l10n-mx-check-printing"]
-	path = l10n-mx-check-printing
-	url = git@git.vauxoo.com:mexico/l10n-mx-check-printing.git
-	branch = 18.0
 [submodule "l10n-mx-edi-account-move-report"]
 	path = l10n-mx-edi-account-move-report
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-account-move-report.git
