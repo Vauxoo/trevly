@@ -42,3 +42,7 @@
 	path = l10n-mx-edi-ieps
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-ieps.git
 	branch = 18.0
+[submodule "l10n-mx-edi-pos"]
+	path = l10n-mx-edi-pos
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-pos.git
+	branch = 18.0
