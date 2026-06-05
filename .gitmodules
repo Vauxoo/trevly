@@ -1,44 +1,40 @@
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
-	branch = 18.0
+	branch = 19.0
 [submodule "trevly"]
 	path = trevly
 	url = git@git.vauxoo.com:vauxoo/trevly.git
-	branch = 18.0
+	branch = 19.0-view-delete-desdelinux
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
-	branch = 18.0
+	branch = 19.0
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 18.0
+	branch = 19.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
 	url = git@github.com:Vauxoo/purchase-workflow.git
-	branch = 18.0
+	branch = 19.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
-	branch = 18.0
+	branch = 19.0
 [submodule "l10n-mx-edi-account-move-report"]
 	path = l10n-mx-edi-account-move-report
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-account-move-report.git
-	branch = 18.0
+	branch = 19.0
 [submodule "l10n-mx-edi-cancellation"]
 	path = l10n-mx-edi-cancellation
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
-	branch = 18.0
+	branch = 19.0
 [submodule "l10n-mx-cash-basis-entries"]
 	path = l10n-mx-cash-basis-entries
 	url = git@git.vauxoo.com:mexico/l10n-mx-cash-basis-entries.git
-        branch = 18.0
+        branch = 19.0
 [submodule "l10n-mx-edi-tax-withholding"]
 	path = l10n-mx-edi-tax-withholding
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-tax-withholding.git
-	branch = 18.0
-[submodule "l10n-mx-edi-ieps"]
-	path = l10n-mx-edi-ieps
-	url = git@git.vauxoo.com:mexico/l10n-mx-edi-ieps.git
-	branch = 18.0
+	branch = 19.0
