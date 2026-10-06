@@ -38,3 +38,15 @@
 	path = l10n-mx-edi-tax-withholding
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-tax-withholding.git
 	branch = 19.0
+[submodule "l10n-mx-payroll"]
+	path = l10n-mx-payroll
+	url = git@git.vauxoo.com:vauxoo/l10n-mx-payroll.git
+	branch = 19.0
+[submodule "hr"]
+	path = hr
+	url = git@github.com:Vauxoo/hr.git
+	branch = 19.0
+[submodule "hr-advanced"]
+	path = hr-advanced
+	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
+	branch = 19.0
